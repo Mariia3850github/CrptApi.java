@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CrptApiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-04T08:27:32" hostname="DESKTOP-EN4GQG8" time="30.035">
+  <properties/>
+  <testcase name="request()" classname="org.example.CrptApiTest" time="30.035"/>
+  <system-out><![CDATA[thread 43 are started
+thread 47 are started
+thread 49 are started
+thread 48 are started
+thread 45 are started
+thread 50 are started
+thread 42 are started
+thread 44 are started
+thread 51 are started
+thread 46 are started
+thread 48 are finished
+thread 50 are finished
+thread 45 are finished
+thread 51 are finished
+thread 47 are finished
+thread 43 are finished
+thread 49 are finished
+thread 44 are finished
+thread 46 are finished
+thread 42 are finished
+]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+</testsuite>
